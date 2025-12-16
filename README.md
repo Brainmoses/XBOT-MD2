@@ -53,3 +53,77 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 </p>
 
 
+
+
+## 🛡 How to Deploy in 3 Simple Steps
+
+
+
+<div align="center">
+
+### 🔹 Step 1: Fork & Star This Repo
+Help support the project by clicking the buttons below. Fork it to your GitHub and give it a star!
+<div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
+  <p style="color: #00ffff;">First star & Fork repo using button Below !</p>
+  <a href='https://github.com/MLILA17/DML-MD/fork' target="_blank">
+    <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
+  </a>
+</div>
+
+
+
+
+
+
+[![Fork](https://img.shields.io/github/forks/MLILA17/DML-MD?label=Fork&style=for-the-badge&logo=git)](https://github.com/MLILA17/DML-MD/fork)
+[![Star](https://img.shields.io/github/stars/MLILA17/DML-MD?label=Star&style=for-the-badge&logo=github)](https://github.com/MLILA17/DML-MD/stargazers)
+
+
+---
+
+### 🔹 Step 2: Generate Session ID
+You need a session to connect your bot. Choose your preferred method , I recommended using server 1:
+
+[![Scan QR Code](https://img.shields.io/badge/🔍_SCAN_QR-FF6347?style=for-the-badge&logo=qr-code&logoColor=white)](https://dml-server.onrender.com/qr) 
+
+[![Pair Device](https://img.shields.io/badge/⚡_SERVER_1-8A2BE2?style=for-the-badge&logo=windows&logoColor=white&labelColor=1A1A2E&color=9400D3)](https://dml-server.onrender.com)
+---
+[![Pair Device](https://img.shields.io/badge/🚀_SERVER_2-4CAF50?style=for-the-badge&logo=link&logoColor=white)](https://two-vz60.onrender.com)
+---
+### 🔹 Step 3: Deploy with One Click
+Easily deploy to Heroku with the button below:
+
+[![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dmlv1.vercel.app/)
+
+
+[![Deploy](https://img.shields.io/badge/DEPLOY_TO_RAILWAY-430098?style=for-the-badge&logo=railway&logoColor=white)](https://railway.com/new)
+
+
+
+
+
+
+
+
+</div>
+
+---
+
+## 🌐 Join The Community
+
+<p align="center">
+
+  <a href="https://whatsapp.com/channel/0029Vb2hoPpDZ4Lb3mSkVI3C">
+    <img src="https://img.shields.io/badge/WHATSAPP_CHANNEL-https://chat.whatsapp.com/DkaqpXIK87HE11pAHWERN8">
+  </a>
+</p>
+
+---
+
+<h3 align="center" style="color: #FF6347; animation: pulse 1.5s infinite;">⚡ OFFICIAL RELEASE v4.5 ⚡</h3>
+
+## ⚠️ Important Notice
+```diff
+- REDISTRIBUTION STRICTLY PROHIBITED
++ OFFICIAL SUPPORT ONLY FOR ORIGINAL VERSION
+! VIOLATORS WILL BE BLACKLISTED
