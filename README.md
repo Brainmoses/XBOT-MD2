@@ -86,7 +86,7 @@ You need a session to connect your bot. Choose your preferred method , I recomme
 
 [![Scan QR Code](https://img.shields.io/badge/🔍_SCAN_QR-FF6347?style=for-the-badge&logo=qr-code&logoColor=white)](https://dml-server.onrender.com/qr) 
 
-[![Pair Device](https://img.shields.io/badge/⚡_SERVER_1-8A2BE2?style=for-the-badge&logo=windows&logoColor=blue&labelColor=1A1A2E&color=9400D3)](https://BMK-server.onrender.com)
+[![Pair Device](https://img.shields.io/badge/⚡_SERVER_1-8A2BE2?style=for-the-badge&logo=windows&logoColor=White&labelColor=1A1A2E&color=9400D3)](https://BMK-server.onrender.com)
 [![Pair Device](https://img.shields.io/badge/🚀_SERVER_2-4CAF50?style=for-the-badge&logo=link&logoColor=blue)](https://two-vz60.onrender.com)
 ---
 ### 🔹 Step 3: Deploy with One Click
