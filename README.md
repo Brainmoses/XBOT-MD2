@@ -86,9 +86,9 @@ You need a session to connect your bot. Choose your preferred method , I recomme
 
 [![Scan QR Code](https://img.shields.io/badge/🔍_SCAN_QR-FF6347?style=for-the-badge&logo=qr-code&logoColor=white)](https://dml-server.onrender.com/qr) 
 
-[![Pair Device](https://img.shields.io/badge/⚡_SERVER_1-8A2BE2?style=for-the-badge&logo=windows&logoColor=white&labelColor=1A1A2E&color=9400D3)](https://dml-server.onrender.com))](https://files.catbox.moe/se5e6e.jpg🌈)
+[![Pair Device](https://img.shields.io/badge/💯_SERVER_1-8A2BE2?style=for-the-badge&logo=windows&logoColor=green &labelColor=1A1A2E&color=9400D3)][(https:/virus. com.)]
 ---
-[![Pair Device](https://img.shields.io/badge/🚀_SERVER_2-4CAF50?style=for-the-badge&logo=link&logoColor=white)](https://two-vz60.onrender.com)
+[![Pair Device](https://img.shields.io/badge/🚀_SERVER_2-4CAF50?style=for-the-badge&logo=link&logoColor=blue)](https://two-vz60.onrender.com)
 ---
 ### 🔹 Step 3: Deploy with One Click
 Easily deploy to Heroku with the button below:
