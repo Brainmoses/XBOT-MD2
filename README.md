@@ -93,7 +93,7 @@ You need a session to connect your bot. Choose your preferred method , I recomme
 ### 🔹 Step 3: Deploy with One Click
 Easily deploy to Heroku with the button below:
 
-[![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dmlv1.vercel.app/)
+[![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://files.catbox.moe/se5e6e.jpg)
 
 
 [![Deploy](https://img.shields.io/badge/DEPLOY_TO_RAILWAY-430098?style=for-the-badge&logo=railway&logoColor=white)](https://railway.com/new)
@@ -114,7 +114,7 @@ Easily deploy to Heroku with the button below:
 <p align="center">
 
   <a href="https://whatsapp.com/channel/0029Vb2hoPpDZ4Lb3mSkVI3C">
-    <img src="https://img.shields.io/badge/WHATSAPP_CHANNEL-https://chat.whatsapp.com/DkaqpXIK87HE11pAHWERN8">
+    <img src="https://img.shields.io/badge/https://chat.whatsapp.com/DkaqpXIK87HE11pAHWERN8">
   </a>
 </p>
 
